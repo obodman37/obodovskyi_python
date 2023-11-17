@@ -1,4 +1,4 @@
-# tasks/greetings.py
+
 def process_input(user_input):
     try:
         number = float(user_input)
